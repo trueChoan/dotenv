@@ -2,7 +2,7 @@
 
 ### installation
 
-npm i
-cp .env.sample .env
-fill the .env with your data
-run node index.js
+- npm i
+- cp .env.sample .env
+- fill the .env with your data
+- run node index.js
